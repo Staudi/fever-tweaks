@@ -5,14 +5,12 @@ Based on stacked.css by [Drudge](https://github.com/drudge) for [Chill pill app]
 # Usage
 Copy and paste at end of  `content.css` in:
 
-    /firewall/app/views/default/styles/content.css
+    /firewall/app/views/default/styles/
     
 # Examples
 
 ![Landscape](Examples/fever1.jpg)
-landscape
 
 ![Portrait](Examples/fever2.jpg)
-portrait
 
 
