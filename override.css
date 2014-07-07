@@ -1,0 +1,42 @@
+body {
+  font-size: 13px!important;
+  background-image: none;
+  background-color: #F2F2F2;
+}
+
+.item-content  {
+  font-size: 16px!important;
+  line-height: 1.4;
+}
+
+#menu-options li {
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+#logo {
+  display: none!important;
+}
+
+#fluid {
+  left: 16px!important;
+}
+
+.container {
+  padding-left:0!important;
+}
+
+.meta h1 {
+  font-size: 20px;
+  line-height: 1.3;
+}
+
+#fever {
+  position: fixed;
+  bottom: 15px;
+  top: auto
+}
+
+.thermometer {
+  left: -14px;
+}
